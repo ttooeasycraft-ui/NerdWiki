@@ -1,0 +1,13 @@
+[
+  {"name":"Key Pesca","color":"#00BFFF","icon":"blue_dye"},
+  {"name":"Key Alpha","color":"#AAAAAA","icon":"tripwire_hook"},
+  {"name":"Key Beta","color":"#5555FF","icon":"trial_key"},
+  {"name":"Key Omega","color":"#55FF55","icon":"ominous_trial_key"},
+  {"name":"Key Carnaval","color":"#FFAA00","icon":"parrot_spawn_egg"},
+  {"name":"Key Aurora","color":"#00FF88","icon":"ender_eye"},
+  {"name":"Key Tempestade","color":"#8800FF","icon":"heart_of_the_sea"},
+  {"name":"Key Pascoa","color":"#FF88FF","icon":"rabbit_spawn_egg"},
+  {"name":"Key SuperNova","color":"#FF5500","icon":"nether_star"},
+  {"name":"Key Netuno","color":"#0055FF","icon":"glow_ink_sac"},
+  {"name":"Key Mae","color":"#FF0055","icon":"pink_petals"}
+]

@@ -1,0 +1,88 @@
+{
+  "coins": [
+    {
+      "name": "Zumbizini Loririli",
+      "mob": "Zumbi",
+      "rarity": "Comum",
+      "valuePerSec": 200,
+      "buyValue": 1000000
+    },
+    {
+      "name": "Huskidildo Areialili",
+      "mob": "Zumbi-Mumia",
+      "rarity": "Comum",
+      "valuePerSec": 350,
+      "buyValue": 8000000
+    },
+    {
+      "name": "Galinhabro Carijo Funkerinho",
+      "mob": "Galinha",
+      "rarity": "Comum",
+      "valuePerSec": 450,
+      "buyValue": 12000000
+    },
+    {
+      "name": "Morcegobro Morfando",
+      "mob": "Morcego",
+      "rarity": "Comum",
+      "valuePerSec": 550,
+      "buyValue": 18000000
+    },
+    {
+      "name": "Porcolin do Cash Cash",
+      "mob": "Piglin",
+      "rarity": "Comum",
+      "valuePerSec": 700,
+      "buyValue": 26000000
+    },
+    {
+      "name": "Sapolino do Batidao",
+      "mob": "Sapo",
+      "rarity": "Comum",
+      "valuePerSec": 850,
+      "buyValue": 36000000
+    },
+    {
+      "name": "Vaquilina Mimosa do Grau",
+      "mob": "Vaca",
+      "rarity": "Comum",
+      "valuePerSec": 1050,
+      "buyValue": 50000000
+    },
+    {
+      "name": "Ossobro Cansado do Role",
+      "mob": "Esqueleto",
+      "rarity": "Incomum",
+      "valuePerSec": 1900,
+      "buyValue": 150000000
+    },
+    {
+      "name": "Strayzini Geladolao",
+      "mob": "Vagante",
+      "rarity": "Incomum",
+      "valuePerSec": 2350,
+      "buyValue": 220000000
+    },
+    {
+      "name": "Foguinho do Bidi Bidi",
+      "mob": "Blaze",
+      "rarity": "Lendario",
+      "valuePerSec": 55000,
+      "buyValue": 30000000000
+    },
+    {
+      "name": "Abelha do Beats BzzBzz",
+      "mob": "Abelha",
+      "rarity": "Lendario",
+      "valuePerSec": 70000,
+      "buyValue": 42000000000
+    },
+    {
+      "name": "Wardebro Cegolao do Multiverso",
+      "mob": "Defensor",
+      "rarity": "Mitico",
+      "valuePerSec": 550000,
+      "buyValue": 700000000000
+    }
+  ]
+}

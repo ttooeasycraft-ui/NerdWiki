@@ -1,0 +1,10 @@
+[
+  {"name":"Tridente Comum","rarity":"Comum","color":"#AAAAAA"},
+  {"name":"Tridente Incomum","rarity":"Incomum","color":"#55FF55"},
+  {"name":"Tridente Raro","rarity":"Raro","color":"#5555FF"},
+  {"name":"Tridente Epico","rarity":"Epico","color":"#AA00FF"},
+  {"name":"Tridente Lendario","rarity":"Lendario","color":"#FFAA00"},
+  {"name":"Tridente Mitico","rarity":"Mitico","color":"#FF5500"},
+  {"name":"Tridente Lugubre","rarity":"Lugubre","color":"#FF3333"},
+  {"name":"Tridente Sombrio","rarity":"Sombrio","color":"#222222"}
+]
